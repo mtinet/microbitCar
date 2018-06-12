@@ -5,5 +5,5 @@
 
 
 ### 모터 제어 예제 p12, p14(p8, p13으로 방향 제어)  
-[motorTest.js](https://github.com/mtinet/microbitCar/blob/master/code/motorTest.js)  
+#### [motorTest.js](https://github.com/mtinet/microbitCar/blob/master/code/motorTest.js)  
 ![](https://github.com/mtinet/microbitCar/blob/master/image/microbit-screenshot.png?raw=true)  
